@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknc_docusaurus_website=self.webpackChunkknc_docusaurus_website||[]).push([[800],{7214:function(s){s.exports=JSON.parse('{"allTagsPath":"/knc-docusaurus-website/blog/tags","slug":"/knc-docusaurus-website/blog/tags/hola","name":"hola","count":1,"permalink":"/knc-docusaurus-website/blog/tags/hola"}')}}]);

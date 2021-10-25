@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknc_docusaurus_website=self.webpackChunkknc_docusaurus_website||[]).push([[419],{31:function(s){s.exports=JSON.parse('{"allTagsPath":"/knc-docusaurus-website/blog/tags","slug":"/knc-docusaurus-website/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/knc-docusaurus-website/blog/tags/docusaurus"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkknc_docusaurus_website=self.webpackChunkknc_docusaurus_website||[]).push([[782],{6618:function(e){e.exports=JSON.parse('{"permalink":"/knc-docusaurus-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
